@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\NotaFiscal\obj\Debug\NotaFiscal.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\NotaFiscal\obj\Debug\NotaFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\NotaFiscal\obj\Debug\NotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\NotaFiscal\bin\Debug\NotaFiscal.exe.config
+C:\Users\Ornare\source\repos\NotaFiscal\bin\Debug\NotaFiscal.exe
+C:\Users\Ornare\source\repos\NotaFiscal\bin\Debug\NotaFiscal.pdb
+C:\Users\Ornare\source\repos\NotaFiscal\obj\Debug\NotaFiscal.exe
+C:\Users\Ornare\source\repos\NotaFiscal\obj\Debug\NotaFiscal.pdb
